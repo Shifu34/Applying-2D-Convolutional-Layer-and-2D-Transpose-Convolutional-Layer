@@ -6,4 +6,4 @@
 3. I have also made five layers in both classes.
 4. I pass a tensor of input dimensions and it is outputing a tensor of dimensions described in the images attached below.
 5. 
-![Alt text]([Architecture_1.png](https://github.com/Shifu34/Applying-2D-Convolutional-Layer-and-2D-Transpose-Convolutional-Layer/blob/7a3162533d0984137392205460f6aab4eb56bf0d/Architecture_1.png)https://github.com/Shifu34/Applying-2D-Convolutional-Layer-and-2D-Transpose-Convolutional-Layer/blob/7a3162533d0984137392205460f6aab4eb56bf0d/Architecture_1.png)
+![Alt text]((https://github.com/Shifu34/Applying-2D-Convolutional-Layer-and-2D-Transpose-Convolutional-Layer/blob/7a3162533d0984137392205460f6aab4eb56bf0d/Architecture_1.png)https://github.com/Shifu34/Applying-2D-Convolutional-Layer-and-2D-Transpose-Convolutional-Layer/blob/7a3162533d0984137392205460f6aab4eb56bf0d/Architecture_1.png)
